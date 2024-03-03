@@ -1,0 +1,10 @@
+dagster==1.5.9
+dagster-cloud
+pandas
+plotly
+shapely
+influxdb-client
+
+[dev]
+dagster-webserver
+pytest
