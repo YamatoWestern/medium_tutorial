@@ -27,9 +27,3 @@ Open http://localhost:3000 with your browser to see the project.
 ### Adding new Python dependencies
 
 You can specify new Python dependencies in `setup.py`.
-
-## Deploy on Dagster Cloud
-
-The easiest way to deploy your Dagster project is to use Dagster Cloud.
-
-Check out the [Dagster Cloud Documentation](https://docs.dagster.cloud) to learn more.
